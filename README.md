@@ -51,7 +51,6 @@
   ├─ README.md
   ├─ /images/
   └─ /stm32_motordrive/
-    └─ stm32-motordrive.epro
 
 ```
 
