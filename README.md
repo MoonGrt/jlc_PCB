@@ -52,6 +52,7 @@
   ├─ /images/
   └─ /stm32_motordrive/
     ├─ ProProject_stm32-motordrive_2024-05-06.epro
+    ├─ ProProject_stm32_motordrive_2024-05-07.epro
     └─ stm32-motordrive.epro
 
 ```
