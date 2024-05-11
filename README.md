@@ -51,6 +51,14 @@
   ├─ README.md
   ├─ /images/
   └─ /stm32_motordrive/
+    ├─ stm32_motordrive.epro
+    └─ /image/
+      ├─ pcb_3d.png
+      ├─ pcb_b.png
+      ├─ pcb_t.png
+      ├─ sch.png
+      ├─ version1.png
+      └─ version2.png
 
 ```
 
