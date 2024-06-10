@@ -15,7 +15,7 @@
 	</a>
 <h3 align="center">JLC_PCB</h3>
 	<p align="center">
-	A repository dedicated to PCB design and development, supported by JLCPCB. Access resources and tools for electronic engineers, manufacturers, and enthusiasts.
+	A repository dedicated to PCB design and development, supported by JLCPCB. Access resources and tools for electronic engineers, manufacturers, and enthusiasts. 
 	<br />
 	<a href="https://github.com/MoonGrt/JLC_PCB"><strong>Explore the docs »</strong></a>
 	<br />
