@@ -1,0 +1,14 @@
+Source PCB Design PCB_Pin.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Mini_sys_board.PrjPcb]
+   Generated File[PCB_Pin.RUL]
+   Generated File[PCB_Pin.EXTREP]
+   Generated File[PCB_Pin.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:17:53 On 2022/8/22

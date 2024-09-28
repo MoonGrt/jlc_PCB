@@ -1,0 +1,5 @@
+Board Information Report
+Filename     : F:\Project\Altium\Project\fly\fly-PRJ\fly_panel.PcbDoc
+Date         : 2024/3/29
+Time         : 13:03:07
+Time Elapsed : 00:00:00

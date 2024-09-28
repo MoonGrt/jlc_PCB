@@ -1,0 +1,89 @@
+Added Pin To Net: NetName=NRST Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=3V3 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VCAP Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=3V3 Pin=IC1-2
+Added Pin To Net: NetName=3V3 Pin=IC1-2
+Added Pin To Net: NetName=5V Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=Key1-1
+Added Pin To Net: NetName=NRST Pin=Key1-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=B5 Pin=LED2-2
+Added Pin To Net: NetName=5V Pin=O1-0
+Added Pin To Net: NetName=GND Pin=O2-0
+Added Pin To Net: NetName=D3 Pin=P1-1
+Added Pin To Net: NetName=D2 Pin=P1-2
+Added Pin To Net: NetName=D1 Pin=P1-3
+Added Pin To Net: NetName=C7 Pin=P1-4
+Added Pin To Net: NetName=C6 Pin=P1-5
+Added Pin To Net: NetName=C5 Pin=P1-6
+Added Pin To Net: NetName=C4 Pin=P1-7
+Added Pin To Net: NetName=C3 Pin=P1-8
+Added Pin To Net: NetName=B4 Pin=P1-9
+Added Pin To Net: NetName=B5 Pin=P1-10
+Added Pin To Net: NetName=D4 Pin=P2-1
+Added Pin To Net: NetName=D5 Pin=P2-2
+Added Pin To Net: NetName=D6 Pin=P2-3
+Added Pin To Net: NetName=NRST Pin=P2-4
+Added Pin To Net: NetName=A1 Pin=P2-5
+Added Pin To Net: NetName=A2 Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P2-7
+Added Pin To Net: NetName=VCAP Pin=P2-8
+Added Pin To Net: NetName=3V3 Pin=P2-9
+Added Pin To Net: NetName=A3 Pin=P2-10
+Added Pin To Net: NetName=3V3 Pin=P3-1
+Added Pin To Net: NetName=D1 Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=NRST Pin=P3-4
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=NRST Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R3-2
+Added Pin To Net: NetName=D4 Pin=U1-1
+Added Pin To Net: NetName=D5 Pin=U1-2
+Added Pin To Net: NetName=D6 Pin=U1-3
+Added Pin To Net: NetName=NRST Pin=U1-4
+Added Pin To Net: NetName=A1 Pin=U1-5
+Added Pin To Net: NetName=A2 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=VCAP Pin=U1-8
+Added Pin To Net: NetName=3V3 Pin=U1-9
+Added Pin To Net: NetName=A3 Pin=U1-10
+Added Pin To Net: NetName=D3 Pin=U1-11
+Added Pin To Net: NetName=D2 Pin=U1-12
+Added Pin To Net: NetName=D1 Pin=U1-13
+Added Pin To Net: NetName=C7 Pin=U1-14
+Added Pin To Net: NetName=C6 Pin=U1-15
+Added Pin To Net: NetName=C5 Pin=U1-16
+Added Pin To Net: NetName=C4 Pin=U1-17
+Added Pin To Net: NetName=C3 Pin=U1-18
+Added Pin To Net: NetName=B4 Pin=U1-19
+Added Pin To Net: NetName=B5 Pin=U1-20
+Added Member To Class: ClassName=Mini_sys_board Member=Component C1 0.1uf
+Added Member To Class: ClassName=Mini_sys_board Member=Component C2 0.1uf
+Added Member To Class: ClassName=Mini_sys_board Member=Component C3 0.1uf
+Added Member To Class: ClassName=Mini_sys_board Member=Component C4 0.1uf
+Added Member To Class: ClassName=Mini_sys_board Member=Component IC1 AMS1117
+Added Member To Class: ClassName=Mini_sys_board Member=Component Key1 Key
+Added Member To Class: ClassName=Mini_sys_board Member=Component LED1 LED
+Added Member To Class: ClassName=Mini_sys_board Member=Component LED2 LED
+Added Member To Class: ClassName=Mini_sys_board Member=Component O1 ¹ý¿×
+Added Member To Class: ClassName=Mini_sys_board Member=Component O2 ¹ý¿×
+Added Member To Class: ClassName=Mini_sys_board Member=Component P1 CON10
+Added Member To Class: ClassName=Mini_sys_board Member=Component P2 CON10
+Added Member To Class: ClassName=Mini_sys_board Member=Component P3 CON4
+Added Member To Class: ClassName=Mini_sys_board Member=Component R1 10K
+Added Member To Class: ClassName=Mini_sys_board Member=Component R2 10K
+Added Member To Class: ClassName=Mini_sys_board Member=Component R3 10K
+Added Member To Class: ClassName=Mini_sys_board Member=Component U1 STM8S103F3
+Added Member To Class: ClassName=Mini_sys_board Member=Component USB1 USB
+Added Room: Name=Mini_sys_board

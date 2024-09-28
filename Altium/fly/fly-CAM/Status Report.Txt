@@ -1,0 +1,13 @@
+Source PCB Design fly_panel.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Test Point Report
+Type  : Test Points
+From  : Project [fly.PrjPcb]
+   Generated File[Fabrication Testpoint Report for fly_panel - embedded fly1.ipc]
+   Generated File[Fabrication Testpoint Report for fly_panel - embedded fly1_1.ipc]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 12:38:01 On 2024/3/29
