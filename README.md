@@ -65,7 +65,6 @@
   │ ├─ /fly/
   │ ├─ /mini_sys/
   │ └─ /smart_car/
-  ├─ /images/
   └─ /JLC/
     ├─ LICENSE
     ├─ README.md
@@ -85,8 +84,8 @@
 <h4>PCB Designs Repository</h4>
 <p>This repository contains my PCB designs using the following software:</p>
 <ul>
-  <li><a href="https://github.com/MoonGrt/PCB/Altium">Altium Designer</a></li>
-  <li><a href="https://github.com/MoonGrt/PCB/JLC">JLCPCB</a></li>
+  <li><a href="Altium/README.md">Altium Designer</a></li>
+  <li><a href="JLC/README.md">JLCPCB</a></li>
 </ul>
 <p align="right">(<a href="#top">top</a>)</p>
 

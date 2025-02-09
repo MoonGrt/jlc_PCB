@@ -77,10 +77,10 @@
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">This repository contains PCB projects designed using Altium Designer, including various electronic engineering projects such as fly, mini_sys, and smart_car. Each project showcases hardware design for different application scenarios, highlighting diversity in embedded system development and circuit design. Contributions and discussions are welcome!</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Below is a PCB project for a quadcopter, designed to provide stable flight control and attitude adjustment. The project includes modules such as flight controller, power system, and sensor interfaces, making it suitable for hardware development and optimization in UAV applications.</p>
-<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="../images/fly.png" height="400" /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="fly/document/images/fly.png" height="400" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Below is a minimal STM32 system board design, primarily focused on offering a streamlined and stable hardware platform for embedded development and rapid STM32 prototyping. The design includes basic power management, clock circuitry, and debugging interfaces.</p>
-<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="../images/mini_sys.png" height="400" /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="mini_sys/document/images/mini_sys.png" height="400" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>
 <p align="right">(<a href="#top">top</a>)</p>
 

@@ -12,7 +12,7 @@
 <br />
 <div align="center">
     <a href="https://github.com/MoonGrt/PCB">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="../Document/images/logo.png" alt="Logo" width="80" height="80">
     </a>
 <h3 align="center">PCB</h3>
     <p align="center">
@@ -82,10 +82,10 @@
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">这个仓库包含多个硬件设计项目，主要用于集成电路设计和嵌入式系统开发。仓库中的项目包括四轴飞行器控制器（fly_ctrl）和STM32电机驱动板（stm32_motordrive）等。每个项目都包含了电路板布局、原理图和相应的设计文件，旨在帮助开发者快速进行原型设计和硬件实现。</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">这是一个专为四轴飞行器设计的控制板，集成了多种传感器和控制算法，旨在实现稳定的飞行控制和灵活的导航能力。该项目提供了完整的电路设计和布局，适合无人机爱好者和开发者使用。</p>
-<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="F:/Project/PCB/Project/images/fly_ctrl.png" height="400" /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="fly_ctrl/images/fly_ctrl.png" height="400" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">该项目是基于STM32微控制器的电机驱动板，能够驱动各种直流电机和步进电机。设计包括电机驱动电路和控制接口，旨在为嵌入式应用提供高效的电机控制解决方案。</p>
-<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="F:/Project/PCB/Project/images/stm32_motordrive.png" height="400" /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="stm32_motordrive/images/pcb_t.png" height="400" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>
 <p align="right">(<a href="#top">top</a>)</p>
 

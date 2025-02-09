@@ -66,7 +66,6 @@
   │ ├─ /fly/
   │ ├─ /mini_sys/
   │ └─ /smart_car/
-  ├─ /images/
   └─ /JLC/
     ├─ LICENSE
     ├─ README.md
@@ -85,8 +84,8 @@
 <h4>PCB 设计仓库</h4>
 <p>该仓库包含我使用以下软件进行的 PCB 设计：</p>
 <ul>
-  <li><a href="https://github.com/MoonGrt/PCB/tree/master/Altium">Altium Designer</a></li>
-  <li><a href="https://github.com/MoonGrt/PCB/tree/master/JLC">JLCPCB</a></li>
+  <li><a href="Altium/README.md">Altium Designer</a></li>
+  <li><a href="JLC/README.md">JLCPCB</a></li>
 </ul>
 <p align="right">(<a href="#top">top</a>)</p>
 

@@ -77,9 +77,9 @@
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">这是一个基于Altium Designer绘制的PCB项目仓库，包含了多个电子工程项目。当前工程包括fly、mini_sys、smart_car等。每个项目都是针对不同应用场景的硬件设计，展示了嵌入式系统开发和电路设计的多样性。欢迎探讨与改进！</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">下面是一个四轴飞行器的PCB项目，设计用于实现稳定的飞行控制和姿态调整。该项目包含飞行控制器、动力系统和传感器接口等模块，适用于飞行器相关的硬件开发与优化。</p>
-<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="../images/fly.png" height="400" /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="fly/document/images/fly.png" height="400" /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">下面是一个最小化的STM32系统板设计，主要功能为提供一个精简、稳定的硬件平台，适合用于嵌入式开发和STM32的快速原型设计。该设计包含基本的电源管理、时钟电路及调试接口。</p>
-<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="../images/mini_sys.png" height="400" /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="mini_sys/document/images/mini_sys.png" height="400" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>
 <p align="right">(<a href="#top">top</a>)</p>
 
