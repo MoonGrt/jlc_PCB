@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations
+F:\Project\PCB\Project\Altium\mini_sys\mini_sys-PRJ\Project Outputs for Mini_sys\Pick Place for Mini_sys.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/02/25
+Time:       14:22
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment    Layer    Footprint       Center-X(mil) Center-Y(mil) Rotation 
+R3         10K        TopLayer R_0603          356.000       99.000        360      
+R2         10K        TopLayer R_0603          357.000       807.000       360      
+R1         10K        TopLayer R_0603          776.000       378.500       90       
+USB        USB        TopLayer USB-MICRO_E     168.165       454.756       0        
+U1         STM8S103F3 TopLayer TSSOP20_L       1253.000      452.000       270      
+P3         CON4       TopLayer HDR2.54-WI-4P   1677.000      452.500       270      
+P2         CON10      TopLayer HDR2.54-LI-10P  1220.000      801.575       180      
+P1         CON10      TopLayer HDR2.54-LI-10P  1220.000      98.425        180      
+O2         过孔         TopLayer 过孔              119.000       97.000        0        
+O1         过孔         TopLayer 过孔              121.000       803.000       0        
+LED2       LED        TopLayer LED_0805        523.000       99.000        360      
+LED1       LED        TopLayer LED_0805        525.000       807.000       360      
+RST        Key        TopLayer TSW_SMD-3*6*2.5 929.393       451.843       90       
+IC1        AMS1117    TopLayer SOT223_N        508.000       451.500       180      
+C4         0.1uf      TopLayer C0603           1050.000      456.000       270      
+C3         0.1uf      TopLayer C0603           685.000       447.000       90       
+C2         0.1uf      TopLayer C0603           322.000       451.000       270      
+C1         0.1uf      TopLayer C0603           777.000       524.500       90       

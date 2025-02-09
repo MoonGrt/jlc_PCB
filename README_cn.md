@@ -12,7 +12,7 @@
 <br />
 <div align="center">
     <a href="https://github.com/MoonGrt/PCB">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Document/images/logo.png" alt="Logo" width="80" height="80">
     </a>
 <h3 align="center">PCB</h3>
     <p align="center">
@@ -85,7 +85,7 @@
 <p>该仓库包含我使用以下软件进行的 PCB 设计：</p>
 <ul>
   <li><a href="Altium/README.md">Altium Designer</a></li>
-  <li><a href="JLC/README.md">JLCPCB</a></li>
+  <li><a href="JLC/README.md">JLC PCB</a></li>
 </ul>
 <p align="right">(<a href="#top">top</a>)</p>
 

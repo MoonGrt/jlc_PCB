@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [Mini_sys.PrjPcb]
+   Generated File[Fabrication Testpoint Report for Mini_sys.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:23:28 On 2025/2/9
